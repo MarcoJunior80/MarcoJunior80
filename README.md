@@ -1,9 +1,10 @@
 ### Olá! Eu sou Marco Junior, um apaixonado por tecnologia e futuro desenvolvedor back-end dedicado em buscar soluções inteligentes e eficientes. 💻💡
 
 
-## 📚 Linguagens
+## 📚 Tecnologias
 - ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 - ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+
 
 
 ## 📊 Gráficos
