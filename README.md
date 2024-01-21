@@ -1,4 +1,4 @@
-### Olá! Eu sou Marco Junior, um apaixonado por tecnologia e futuro desenvolvedor back-end dedicado em buscar soluções inteligentes e eficientes. 💻💡
+### Olá! Eu sou Marco Junior, um apaixonado por tecnologia e futuro centista de dados dedicado em buscar soluções inteligentes e eficientes. 💻💡
 ***
 
 
