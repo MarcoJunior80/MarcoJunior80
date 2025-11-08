@@ -1,4 +1,4 @@
-<h2 align="left">Olá! sou Marco Junior um apaixonado por tecnologia estudante de  Ciência de Dados dedicado a resolver problemas de forma inteligentes e eficiente. 💻💡</h2>
+<h2 align="left">Olá! sou Marco Junior um apaixonado por tecnologia estudante de  Análise de Dados dedicado a resolver problemas de forma inteligentes e eficiente. 💻💡</h2>
 
 ###
 
